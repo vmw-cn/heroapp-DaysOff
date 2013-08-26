@@ -1,0 +1,10 @@
+static/*
+public/node_modules/*
+public/report/*
+public/test/*
+public/tool/*
+public/mock_server.config
+public/mock_server.rb
+
+
+.DS_Store
